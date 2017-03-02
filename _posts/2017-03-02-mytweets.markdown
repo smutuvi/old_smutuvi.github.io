@@ -9,7 +9,7 @@ output: html_document
 
 ## Background
 
-This post employs **tidyverse** package by [Hadley Wickham][1] to tidy up and analize my tweets archive.
+This post employs **tidyverse** package by [Hadley Wickham][1] to tidy up and analyze my tweets archive.
 
 ---
 
@@ -17,7 +17,7 @@ Number of tweets per year
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://smutuvi.github.io/assets/images/datalogo.png" alt="Alt Text">
+        <img class="image" src="../assets/images/my_tweets/tweets_per_year.png" alt="Alt Text">
         <figcaption class="caption">Graph by Mutuvi</figcaption>
     </div>
 
