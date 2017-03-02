@@ -9,12 +9,12 @@ output: html_document
 
 ## Background
 
-This post employs tidyverse package by <a href='https://hadley.github.io/' >Hadley Wickham </a>
+This post employs **tidyverse** package by [Hadley Wickham][1] to tidy up and analize my tweets archive.
 
-```{r cars}
-summary(cars)
-```
+---
 
+Number of tweets per year
+![Markdowm Image][2]
 ## Including Plots
 
 You can also embed plots, for example:
@@ -24,3 +24,6 @@ Splot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+[1]: https://hadley.github.io/
+[2]: ../assets/images/datalogo.png
