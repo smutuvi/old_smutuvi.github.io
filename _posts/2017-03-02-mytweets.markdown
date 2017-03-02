@@ -12,6 +12,7 @@ output: html_document
 This post employs **tidyverse** package by [Hadley Wickham][1] to tidy up and analize my tweets archive.
 
 ---
+<<<<<<< HEAD
 
 Number of tweets per year
 
@@ -29,7 +30,11 @@ Number of tweets per year
 ---
 ![Markdowm Image][2]
 ---
+=======
+>>>>>>> 41d203c0eaed795840dbc1495c64b39d399ae82a
 
+Number of tweets per year
+![Markdowm Image][2]
 ## Including Plots
 
 You can also embed plots, for example:
