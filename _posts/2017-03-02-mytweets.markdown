@@ -42,4 +42,4 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 [1]: https://hadley.github.io/
 [2]: ../assets/images/datalogo.png
-[3]: ../assets/images/tweets_per_day.png
+[3]: ../assets/images/my_tweets/tweets_per_day.png
