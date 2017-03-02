@@ -12,7 +12,6 @@ output: html_document
 This post employs **tidyverse** package by [Hadley Wickham][1] to tidy up and analize my tweets archive.
 
 ---
-<<<<<<< HEAD
 
 Number of tweets per year
 
