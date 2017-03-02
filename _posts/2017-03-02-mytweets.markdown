@@ -18,7 +18,7 @@ Number of tweets per year
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src=![Markdowm Image][2] alt="Alt Text">
+        <img class="image" src="![Markdowm Image][2]" alt="Alt Text">
         <figcaption class="caption">Graph by Mutuvi</figcaption>
     </div>
 
@@ -30,11 +30,7 @@ Number of tweets per year
 ---
 ![Markdowm Image][2]
 ---
-=======
->>>>>>> 41d203c0eaed795840dbc1495c64b39d399ae82a
 
-Number of tweets per year
-![Markdowm Image][2]
 ## Including Plots
 
 You can also embed plots, for example:
