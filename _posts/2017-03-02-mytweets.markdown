@@ -17,7 +17,7 @@ Number of tweets per year
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="![Markdowm Image][2]" alt="Alt Text">
+        <img class="image" src="https://smutuvi.github.io/assets/images/datalogo.png" alt="Alt Text">
         <figcaption class="caption">Graph by Mutuvi</figcaption>
     </div>
 
